@@ -1,8 +1,21 @@
+
 button{
-    width: 100px;
+    width: 200px;
     height: 50px;
     background-color: lightgreen;
     color: darkslateblue;
     border: 2px solid darkslateblue;
     margin: 20px;
+}
+.clicked{
+    background-color: blue;
+    color: white;
+}
+
+li{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: brown;
+    padding: 10px;
+    margin: 20px;
+    border: 1px solid green;
 }
